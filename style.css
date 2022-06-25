@@ -1,0 +1,10 @@
+body{
+	background: #CACACA;
+}
+
+.img2{
+	height: 300px;
+	position: relative;
+	align-items: center;
+	justify-content: center;
+}
